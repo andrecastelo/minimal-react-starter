@@ -1,1 +1,13 @@
-Simple react starter.
+Simple React starter
+---
+
+Welcome.
+
+
+
+Setup
+---
+
+```
+npm install
+```
